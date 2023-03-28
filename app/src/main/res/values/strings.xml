@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="note_is_created">note is successfully created</string>
+    <string name="note_is_edited">note is successfully edited</string>
+</resources>
